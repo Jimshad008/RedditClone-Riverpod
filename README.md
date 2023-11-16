@@ -10,6 +10,7 @@ Responsive Design: Ensures a consistent and responsive design across different d
 Riverpod State Management: Implements Riverpod for efficient and scalable state management, ensuring the app remains performant as it scales.
 Authentication: Enables user account creation, login, and personalized content based on user preferences.
 Real-Time Updates: Utilizes Flutter's capabilities to deliver real-time updates on posts, comments, and votes.
+
 License:
 This project is licensed under the MIT License.
 
